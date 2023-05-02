@@ -1,0 +1,6 @@
+ - Pick Two papers on the same Topic (QA, machine translation..) from recent ACL/NAACL/EMNLP/EACL proceedings
+ - Summarise the papers using you own words
+ - Report size: 2 pages maximum
+ - Write a blog post using markdown or jupyter notebook:
+	 - https://einstein.ai/research/learned-in-translation-contextualized-word-vectors
+	 - https://github.com/uclanlp/reducingbias/blob/master/src/fairCRF_gender_ratio.ipynb
